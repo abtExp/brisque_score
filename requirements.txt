@@ -1,0 +1,4 @@
+libsvm
+numpy
+scipy
+opencv-python
